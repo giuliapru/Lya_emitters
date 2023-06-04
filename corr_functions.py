@@ -101,3 +101,4 @@ def corr_func(Nrand, bins, Pos, lim_inf, lim_sup, verb):
     err_xi = err_dens_prof/(Ngal/tot_vol)
     
     return bins_cen, xi, err_xi
+
